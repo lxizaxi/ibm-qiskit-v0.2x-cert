@@ -1,5 +1,5 @@
 [project]
-name = "ibm-qiskit-v2-0x-cert"
+name = "ibm-qiskit-v02x-cert"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
