@@ -6,7 +6,8 @@ readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
     "marimo>=0.11.17",
-    "matplotlib>=3.7.5",
+    "matplotlib>=3.4.3",
+    "pylatexenc>=2.10",
     "qiskit==0.25.3",
     "scikit-build>=0.18.1",
 ]
